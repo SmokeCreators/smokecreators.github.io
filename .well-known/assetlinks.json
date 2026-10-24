@@ -1,8 +1,9 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.smokecreators.simgame",
-        "sha256_cert_fingerprints": ["11:C9:4C:6B:A0:2B:7C:6B:59:04:01:06:BE:70:0C:01:CC:49:42:5F:E2:F6:A7:E9:98:AB:30:3C:3B:77:95:CB"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.smokecreators.simgame",
+    "sha256_cert_fingerprints":
+    ["11:C9:4C:6B:A0:2B:7C:6B:59:04:01:06:BE:70:0C:01:CC:49:42:5F:E2:F6:A7:E9:98:AB:30:3C:3B:77:95:CB"]
+  }
+}]
